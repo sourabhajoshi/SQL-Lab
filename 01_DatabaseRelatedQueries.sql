@@ -20,6 +20,6 @@ SELECT * FROM students_data;
 /*Print existing databases*/
 SHOW DATABASES;
 
-/*Print existing tables*/
+/*Print existing tables */
 SHOW TABLES;
 
