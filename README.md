@@ -1,2 +1,2 @@
 # SQL-Lab
-All SQL queries and excersises
+All SQL queries and excersises : 
